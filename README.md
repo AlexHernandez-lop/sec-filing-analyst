@@ -37,7 +37,7 @@ A retrieval-augmented generation (RAG) pipeline that answers questions about pub
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sec-filing-analyst.git
+git clone https://github.com/AlexHernandez-lop/sec-filing-analyst.git
 cd sec-filing-analyst
 
 python -m venv venv
